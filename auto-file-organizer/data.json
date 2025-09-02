@@ -1,0 +1,20 @@
+{
+  "tagEnabled": true,
+  "extensionEnabled": true,
+  "priority": "extension",
+  "extensionMapping": {},
+  "tagMapping": {
+    "#project": "1.Projects",
+    "#archive": "4.Archives",
+    "#resource": "3.Resources",
+    "#stacy": "2.Areas/Stacy",
+    "#trading-plan": "2.Areas/Trading Plan"
+  },
+  "extensionBlackList": {},
+  "tagBlackList": {
+    "0.Files/0.Templates": "0.Files/0.Templates"
+  },
+  "exclusionFolders": [
+    "0.Files/0.Templates"
+  ]
+}
